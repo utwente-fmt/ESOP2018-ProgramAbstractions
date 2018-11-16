@@ -1,4 +1,4 @@
-// ./unix/bin/vct --silicon --check-history ./examples/test/elect4.pvl
+// vct --silicon --check-history elect.pvl
 
 class Future {
 
